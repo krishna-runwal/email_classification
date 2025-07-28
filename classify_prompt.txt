@@ -1,0 +1,9 @@
+You are an intelligent email classifier.
+
+Given the following email content, respond with only one category from the list:
+Work, Personal, Finance, Spam
+
+Email:
+{email_content}
+
+Respond with exactly one word. Do not add any extra text.

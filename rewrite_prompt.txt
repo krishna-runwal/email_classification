@@ -1,0 +1,8 @@
+You are a writing assistant.
+
+Rewrite the email below in a {tone} tone. The tone should reflect in the choice of words, sentence structure, and overall style. Do not change the core message of the email.
+
+Email:
+{email_content}
+
+Only output the rewritten email. Do not include any explanations or commentary.
